@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Updated title with quotes",
+      "completed": false,
+      "createdAt": "2025-12-28T16:14:23.041Z",
+      "updatedAt": "2025-12-28T16:14:23.055Z"
+    },
+    {
+      "id": 2,
+      "title": "Walk the dog",
+      "completed": false,
+      "createdAt": "2025-12-28T16:14:23.043Z",
+      "updatedAt": "2025-12-28T16:14:23.043Z"
+    },
+    {
+      "id": 3,
+      "title": "Call mom",
+      "completed": false,
+      "createdAt": "2025-12-28T16:14:23.045Z",
+      "updatedAt": "2025-12-28T16:14:23.045Z"
+    },
+    {
+      "id": 4,
+      "title": "Simple unquoted todo",
+      "completed": false,
+      "createdAt": "2025-12-28T16:14:23.047Z",
+      "updatedAt": "2025-12-28T16:14:23.047Z"
+    }
+  ],
+  "nextId": 5,
+  "currentView": "all"
+}

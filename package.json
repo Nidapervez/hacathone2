@@ -1,0 +1,13 @@
+{
+  "name": "todo-cli-app",
+  "version": "1.0.0",
+  "description": "A console-based todo application",
+  "main": "todo_app.js",
+  "scripts": {
+    "start": "node todo_app.js",
+    "dev": "node todo_app.js"
+  },
+  "keywords": ["todo", "cli", "console"],
+  "author": "Todo App Developer",
+  "license": "ISC"
+}
